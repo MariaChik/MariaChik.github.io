@@ -7,13 +7,19 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+.top_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: right;
+}
+  
 .header {
   margin: 40px 0;
 }
 
 .header__avatar {
-  border-radius: 100%;
+  border-radius: 40%;
 }
 
 .header__title {
