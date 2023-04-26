@@ -8,8 +8,6 @@ body {
   align-items: center;
 }
 .top_header {
-  display: flex;
-  flex-direction: row;
   justify-content: right;
   align-items: right;
 }
